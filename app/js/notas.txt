@@ -1,0 +1,6 @@
+100	-	pedir telefono
+200	-	agregar cliente(cuando no encontro telefono)
+300	-	mostrar lista de destinatarios(si encontro telefono, o lo creo)
+400	-	crear destinatario(cuando no lo tiene en la lista)
+500	-	meter la plata(ya me se el cliente y el destinatario)
+600	-	guarde el giro y lo voy a imprimir
